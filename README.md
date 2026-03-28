@@ -1,2 +1,19 @@
 # bug-free-barnacle
-velocitycrm
+omplete app intialization
+node_modules
+.next
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.DS_Store
+*.local
+dist
+.firebase
+.genkit
+
